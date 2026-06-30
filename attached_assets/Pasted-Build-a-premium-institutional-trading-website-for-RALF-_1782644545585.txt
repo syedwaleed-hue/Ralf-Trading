@@ -1,0 +1,215 @@
+Build a premium institutional trading website for "RALF Trading" using Next.js 15, React, TypeScript and Tailwind CSS.
+
+Theme & Design:
+- Luxury black and gold theme.
+- Bloomberg Terminal and hedge fund aesthetics.
+- Glassmorphism cards.
+- Premium animations and typography.
+- Fully responsive for desktop, tablet and mobile.
+- Smooth page transitions and SEO optimized.
+
+Company Information:
+- Company Name: RALF Trading.
+- Founded in 2011 by Mr. Rahil Pasha.
+- Mr. Rahil Pasha is a professional trader with extensive knowledge in trading, market analysis and risk management.
+- We specialize in proprietary trading and capital management with a focus on XAUUSD trading.
+
+Pages:
+1. Home
+2. About Us
+3. Investment Solutions
+4. Funded Accounts
+5. Performance
+6. Trading Education
+7. FAQ
+8. Contact
+9. Login/Register
+10. Risk Disclosure
+11. Privacy Policy
+12. Terms & Conditions
+
+Navigation:
+- Sticky navbar.
+- Animated transitions.
+- Floating WhatsApp button.
+- Dark mode support.
+
+Homepage Hero Section:
+Headline:
+"Trade With Precision. Grow With Discipline."
+
+Subheadline:
+"14 Years of market experience delivering structured and risk-managed trading solutions."
+
+Buttons:
+- Get Started
+- Explore Opportunities
+- Contact Us
+
+Statistics Section:
+- Founded in 2011
+- 14+ Years Experience
+- XAUUSD Specialists
+- Risk Managed Trading
+
+About Section:
+"Founded in 2011 by Mr. Rahil Pasha, RALF Trading has built its reputation on discipline, market expertise and structured risk management. With over 14 years of experience, investor capital is handled with precision and professionalism."
+
+Investor Section:
+"We directly trade investor-funded accounts with a target of approximately 2% daily performance through disciplined execution and risk management. Profits are shared equally, with 50% allocated to investors and 50% to RALF Trading."
+
+Important:
+Do NOT state or imply guaranteed returns anywhere on the website. Present all returns as targets, objectives or historical performance goals.
+
+XAUUSD Section:
+"Most investors assume that achieving consistent returns is unrealistic. In reality, consistency becomes achievable when trading is approached with discipline, structure and deep market understanding.
+
+XAUUSD is one of the most challenging instruments in the financial markets—highly liquid, highly reactive and driven by global sentiment. Once its behaviour is mastered, it offers highly reliable intraday opportunities.
+
+Our approach combines:
+• Structured execution
+• Controlled risk
+• Deep market analysis
+• Disciplined trading systems
+
+For investors this means:
+• Consistent capital growth objectives
+• A transparent performance-based model
+• Returns driven by skill and process
+
+In trading, consistency is the real edge, and when the process is right, the results follow."
+
+Services Section:
+- Proprietary Trading
+- Capital Management
+- Funded Account Management
+- Market Analysis
+- Trading Education
+- Investor Solutions
+
+Performance Dashboard Section:
+Create a premium trading dashboard displaying:
+- BTC/USD
+- XAUUSD
+- EUR/USD
+- NASDAQ
+
+Include:
+- Live ticker animations using mock data.
+- Profit cards.
+- Trading performance charts.
+- Portfolio widgets.
+
+Inside Our Trading Desk Section:
+Create a premium section titled:
+"Inside Our Trading Desk"
+
+Display an uploaded image of our trading setup inside a luxury glassmorphism card.
+
+Text:
+"Every trade executed by RALF Trading is supported by professional systems, multiple charting environments, market analysis tools and disciplined risk management procedures developed over years of market experience."
+
+Testimonials Section:
+Create investor testimonials with luxury card animations.
+
+FAQ Section:
+Answer questions regarding:
+- How funded accounts work.
+- Profit sharing.
+- Risk management.
+- Withdrawals.
+- Investor onboarding.
+
+Contact Section:
+Title:
+"Let's Build Wealth Together"
+
+For opportunities or enquiries:
+support@ralfstrading.com
+
+Include:
+- Contact form
+- Email button
+- Youtube button
+- Newsletter subscription
+
+Footer:
+Include:
+- Company information
+- Quick links
+- Legal pages
+- Social media icons
+- Contact information
+- Risk disclaimer
+
+Risk Disclaimer:
+"Trading and investing involve significant risk. Past performance is not indicative of future results. Any return targets stated on this website represent objectives and are not guarantees of future performance. Investors should carefully assess the risks before participating."
+
+Opening Animation:
+Create a full-screen loading experience.
+
+Sequence:
+1. Black background.
+2. A trading chart begins drawing from left to right.
+3. The chart becomes aggressively bullish and moves upward.
+4. Gold particles appear.
+5. The RALF Trading logo fades in.
+6. The website loads smoothly.
+
+Duration:
+3 to 4 seconds.
+
+Background Effects:
+Create 3D animations using Three.js.
+
+Objects:
+- Rotating Bitcoin coins.
+- Floating and falling US Dollar bills.
+- Gold particles.
+
+Requirements:
+- Luxury appearance.
+- Slow and elegant animations.
+- Optimized for performance.
+- Automatically reduce effects on low-end devices and mobile.
+
+Music:
+Create support for a custom background soundtrack.
+
+Features:
+- Background music player.
+- Play/Pause button in navbar.
+- Volume control.
+- Save preferences using localStorage.
+- Music starts after user clicks an "Enter RALF Trading" button because browsers may block autoplay.
+
+Entry Experience:
+1. User visits website.
+2. Bullish chart animation plays.
+3. User clicks "Enter RALF Trading".
+4. Custom cinematic soundtrack starts.
+5. Website loads with smooth transitions.
+
+SEO:
+Implement:
+- Meta titles
+- Meta descriptions
+- Open Graph tags
+- Twitter cards
+- Sitemap
+- Robots.txt
+- Structured data schema
+- Fast page loading
+- Production-ready code.
+
+Packages to install:
+framer-motion
+three
+@react-three/fiber
+@react-three/drei
+gsap
+react-icons
+react-countup
+react-intersection-observer
+
+Build a website that feels like a $100M hedge fund, with institutional credibility, luxury animations and a premium user experience.
