@@ -1,0 +1,13 @@
+{
+  "buildCommand": "pnpm --filter @workspace/ralf-trading run build",
+  "outputDirectory": "artifacts/ralf-trading/dist/public",
+  "installCommand": "pnpm install --no-frozen-lockfile",
+  "framework": null,
+  "env": {
+    "PORT": "3000",
+    "BASE_PATH": "/"
+  },
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/index.html" }
+  ]
+}
